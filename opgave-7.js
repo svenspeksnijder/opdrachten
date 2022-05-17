@@ -11,7 +11,7 @@ function gemiddelde(cijfers) {
   // cijfers is een array
   var uitkomst = undefined;
   
+  for(uitkomst=0; uitkomst < cijfers.length; uitkomst++) {
   
-  
-  return uitkomst;
+  return uitkomst; }
 }
